@@ -1,4 +1,4 @@
-## Alexa M. DiDio
+# Alexa M. DiDio
 
 ### Projects:
 
